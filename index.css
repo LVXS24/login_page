@@ -1,3 +1,10 @@
 *{
     font: optional;
 }
+
+p{
+    color: red;
+}
+input{
+    width: 100%;
+}
