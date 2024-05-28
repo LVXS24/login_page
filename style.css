@@ -8,7 +8,7 @@
 
 }
 body{
-    background-image: url('../img/amg.jpg');
+    background-image: url('./img/amg.jpg');
     background-size: cover;
 
 }
